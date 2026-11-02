@@ -1,0 +1,4 @@
+.venv/
+.embedded-pg/
+__pycache__/
+.pytest_cache/
